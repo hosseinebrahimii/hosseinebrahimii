@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @hosseinebrahimii
 - 💻 I’m a Flutter Developer and right now i'm trying to create more creative UIs and developing more complex apps.
 - 📫 you can reach me through:
--       linkedin.com/hosseinebrahimii
--       instagram.com/hossein.ebr4himi/
+-       linkedin: hosseinebrahimii
+-       instagram: hossein.ebr4himi
 - 💬 if you have any questions about me or a flutter project, i'm happy to help 🤚🏼.
 
 <!---
