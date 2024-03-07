@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [flutter_project_online_shop](https://github.com/hosseinebrahimii/flutter_project_online_shop) & [flutter_application_aviz](https://github.com/hosseinebrahimii/flutter_application_aviz)
 
-- 🌱 I’m currently learning **deeper things with flutter & programming fundamentals**
+- 🌱 I’m currently learning **deeper things with java, flutter & programming fundamentals**
 
 - 💬 Ask me about **Dart or Flutter, I try to help you with you problem 🫡**
 
