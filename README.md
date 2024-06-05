@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Hossein Ebrahimi, welcome to my page 😊</h1>
 <h3 align="center">A Flutter Developer that also happens to be an aerospace engineer, I know that sounds weird 😁</h3>
 
-- 🔭 I’m currently busy on internship, in my freetime i try to work on [flutter_project_online_shop](https://github.com/hosseinebrahimii/flutter_project_online_shop) & [flutter_application_aviz](https://github.com/hosseinebrahimii/flutter_application_aviz)
+- 🔭 I’m currently working as Java backend developer, in my freetime i try to work on [flutter_project_online_shop](https://github.com/hosseinebrahimii/flutter_project_online_shop) & [flutter_application_aviz](https://github.com/hosseinebrahimii/flutter_application_aviz)
 
 - 🌱 I’m currently learning **deeper things with java, flutter & programming fundamentals**
 
